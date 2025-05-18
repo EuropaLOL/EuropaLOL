@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EuropaLOL
+- 👋 Hi, I’m @Agastya
 - 👀 I’m interested in programming/AI
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🌱 I’m currently learning JS/React
 - 💞️ I’m looking to collaborate on learning coding
 - 📫 How to reach me-through github
 - 😄 Pronouns: he/him
